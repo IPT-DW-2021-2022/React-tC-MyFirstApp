@@ -33,6 +33,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>Olá Mundo (2ª vez)</h1>
+      <footer className='App-footer'>
+        &copy; app@DW
+      </footer>
     </div>
   );
 }
